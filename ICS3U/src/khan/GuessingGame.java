@@ -1,6 +1,6 @@
 package khan;
 /* Raeid Khan
- * Guessing Game
+* Guessing Game
  * User picks a number from 1 to 20 in their head and the program tries to guess your number
  * May 4, 2016
  */
